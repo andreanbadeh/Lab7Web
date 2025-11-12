@@ -215,7 +215,7 @@ Hasilnya
 ```
 Hasilnya
 
-![gambar]()
+![gambar](https://github.com/andreanbadeh/Lab7Web/blob/09505a3812dd10bef5b2a6f32eca3843519b210d/image/Screenshot%20from%202025-11-12%2019-10-04.png)
 
 # Perulangan dowhile
 ```
