@@ -242,4 +242,6 @@ Hasilnya
 ![gambar](https://github.com/andreanbadeh/Lab7Web/blob/75b126589f355f73ef90e652467494fe5b08f130/image/Screenshot%20from%202025-11-12%2019-11-12.png)
 
 # Pertanyaan dan Tugas
-![gambar]()
+![gambar](https://github.com/andreanbadeh/Lab7Web/blob/0074a6f00af9c23f5995d2a101ed6f7352422722/image/Screenshot%20from%202025-11-12%2019-12-58.png)
+
+
