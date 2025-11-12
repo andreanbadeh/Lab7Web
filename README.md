@@ -21,7 +21,9 @@ Variabel php
 </body>
 </html>
 ```
+
 Hasil nya
+
 ![gambar](https://github.com/andreanbadeh/Lab7Web/blob/bf69d894915cdfa0abe4687e0ec9ebc1a43d6a4b/image/Screenshot%20from%202025-11-12%2018-42-05.png)
 
 ```
@@ -42,5 +44,7 @@ Hasil nya
 </body>
 </html>
 ```
+
 hasilnya
+
 ![gambar](https://github.com/andreanbadeh/Lab7Web/blob/d29cb2ea2f636221b39b1dc8c10cfd0b7e3112a6/image/Screenshot%20from%202025-11-12%2018-44-38.png)
