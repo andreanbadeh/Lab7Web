@@ -43,4 +43,4 @@ Hasil nya
 </html>
 ```
 hasilnya
-![gambar]()
+![gambar](https://github.com/andreanbadeh/Lab7Web/blob/d29cb2ea2f636221b39b1dc8c10cfd0b7e3112a6/image/Screenshot%20from%202025-11-12%2018-44-38.png)
