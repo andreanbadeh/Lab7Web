@@ -191,7 +191,7 @@ Hasilnya
 
 Hasilnya
 
-![gambar]()
+![gambar](https://github.com/andreanbadeh/Lab7Web/blob/91454ca678a113266c49b4f0a18ad439bb8a802b/image/Screenshot%20from%202025-11-12%2019-08-40.png)
 
 # Perulangan while
 ```
