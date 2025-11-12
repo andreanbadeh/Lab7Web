@@ -5,7 +5,8 @@ NIM : 312410341
 
 KELAS : TI.24.A.4
 
-Variabel php
+# PHP Dasar
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -25,6 +26,8 @@ Variabel php
 Hasil nya
 
 ![gambar](https://github.com/andreanbadeh/Lab7Web/blob/bf69d894915cdfa0abe4687e0ec9ebc1a43d6a4b/image/Screenshot%20from%202025-11-12%2018-42-05.png)
+
+# Variable PHP
 
 ```
 <!DOCTYPE html>
@@ -48,6 +51,8 @@ Hasil nya
 hasilnya
 
 ![gambar](https://github.com/andreanbadeh/Lab7Web/blob/d29cb2ea2f636221b39b1dc8c10cfd0b7e3112a6/image/Screenshot%20from%202025-11-12%2018-44-38.png)
+
+# Membuat Form Input
 
 ```
 <!DOCTYPE html>
@@ -75,3 +80,5 @@ hasilnya
 Hasilnya
 
 ![gambar](https://github.com/andreanbadeh/Lab7Web/blob/6ed7d9766977136cdd27508b28bae6751a3ff3be/image/Screenshot%20from%202025-11-12%2018-49-29.png)
+
+# Operator
