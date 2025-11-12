@@ -82,3 +82,23 @@ Hasilnya
 ![gambar](https://github.com/andreanbadeh/Lab7Web/blob/6ed7d9766977136cdd27508b28bae6751a3ff3be/image/Screenshot%20from%202025-11-12%2018-49-29.png)
 
 # Operator
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Operator</title>
+</head>
+<body>
+    <h1>Operator Aritmatika</h1>
+    <?php
+        $gaji = 1000000;
+        $pajak = 0.1;
+        $thp = $gaji - ($gaji * $pajak);
+
+        echo "Gaji sebelum pajak = Rp. $gaji <br>";
+        echo "Gaji dibawa pulang = Rp. $thp";
+    ?>
+</body>
+</html>
+```
