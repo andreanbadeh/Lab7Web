@@ -168,4 +168,75 @@ Hasilnya
 
 Hasilnya
 
+![gambar](https://github.com/andreanbadeh/Lab7Web/blob/66b584a78e7fa0b10cee93a05b1ce87fe0a30aae/image/Screenshot%20from%202025-11-12%2019-03-32.png)
+
+# Perulangan for
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Perulangan For</title>
+</head>
+<body>
+    <h1>Perulangan FOR</h1>
+    <?php
+        for ($i = 1; $i <= 10; $i++) {
+            echo "Perulangan ke-$i<br>";
+        }
+    ?>
+</body>
+</html>
+```
+
+Hasilnya
+
+![gambar]()
+
+# Perulangan while
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Perulangan While</title>
+</head>
+<body>
+    <h1>Perulangan WHILE</h1>
+    <?php
+        $i = 1;
+        while ($i <= 10) {
+            echo "Perulangan ke-$i<br>";
+            $i++;
+        }
+    ?>
+</body>
+</html>
+```
+Hasilnya
+
+![gambar]()
+
+# Perulangan dowhile
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Perulangan Do While</title>
+</head>
+<body>
+    <h1>Perulangan DO WHILE</h1>
+    <?php
+        $i = 1;
+        do {
+            echo "Perulangan ke-$i<br>";
+            $i++;
+        } while ($i <= 10);
+    ?>
+</body>
+</html>
+```
+Hasilnya 
+
 ![gambar]()
