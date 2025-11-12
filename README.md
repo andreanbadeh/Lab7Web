@@ -21,3 +21,4 @@ Variabel php
 </body>
 </html>
 ```
+![gambar](https://github.com/andreanbadeh/Lab7Web/blob/bf69d894915cdfa0abe4687e0ec9ebc1a43d6a4b/image/Screenshot%20from%202025-11-12%2018-42-05.png)
