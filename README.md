@@ -130,3 +130,42 @@ Hasilnya
 </body>
 </html>
 ```
+
+Hasilnya
+
+![gambar](https://github.com/andreanbadeh/Lab7Web/blob/6bdccde74344c3880da6e33516f51926c51156dc/image/Screenshot%20from%202025-11-12%2018-59-51.png)
+
+# Kondisi switch
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kondisi Switch</title>
+</head>
+<body>
+    <h1>Kondisi Switch</h1>
+    <?php
+        $nama_hari = date("l");
+        switch ($nama_hari) {
+            case "Sunday":
+                echo "Minggu";
+                break;
+            case "Monday":
+                echo "Senin";
+                break;
+            case "Tuesday":
+                echo "Selasa";
+                break;
+            default:
+                echo "Hari lainnya";
+                break;
+        }
+    ?>
+</body>
+</html>
+```
+
+Hasilnya
+
+![gambar]()
