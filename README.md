@@ -106,3 +106,27 @@ Hasilnya
 Hasilnya
 
 ![gambar](https://github.com/andreanbadeh/Lab7Web/blob/a8b61ecdd6a87ea3dcf2c8033dba3911c63dfa62/image/Screenshot%20from%202025-11-12%2018-56-06.png)
+
+# Kondisi IF
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kondisi If</title>
+</head>
+<body>
+    <h1>Kondisi IF</h1>
+    <?php
+        $nama_hari = date("l");
+        if ($nama_hari == "Sunday") {
+            echo "Minggu";
+        } elseif ($nama_hari == "Monday") {
+            echo "Senin";
+        } else {
+            echo "Hari lainnya";
+        }
+    ?>
+</body>
+</html>
+```
