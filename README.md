@@ -1,4 +1,4 @@
-# Praktikum 7: PHP Dasar
+# Praktikum 7 : PHP DASAR
 NAMA : ANDREAN PUTRA ARYA
 
 NIM : 312410341
